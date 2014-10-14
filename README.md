@@ -1,7 +1,7 @@
-3.2-Asteroid-cocos2d-x
+## 3.2-Asteroid-cocos2d-x
 ======================
 
-* What is this project?
+## * What is this project?
 
 This is the updated version (to v3.2 cocos2d-x) of existing project https://github.com/clawoo/AsteroidsCocos2D-x 
 which seems to be for v2.x
@@ -19,7 +19,7 @@ This game is very basic implementation for the beginners. Anyone can use it, how
 for the people who understands and can write atleast a basic game using simple APIs of cocos2d-x (v3.x)
 
 
-*Features(API of cocos2d-x v3.2 used) of this project:
+## *Features(API of cocos2d-x v3.2 used) of this project:
 
 1) Sprites
 2) Single and Multiple layers on one scene
@@ -41,24 +41,23 @@ it will help you gain confidence. It will also help you get familiar with the st
 their own games.
 
 
-* Want to try it?
+## * Want to try it?
 
 Follow the below steps:
-
-1) Make a new cocos2d-x v3.2 project
-2) Import in eclipse and make sure it is imported correctly by running it as an android application and checking whether 
+* Make a new cocos2d-x v3.2 project
+* Import in eclipse and make sure it is imported correctly by running it as an android application and checking whether 
 the default HelloWorld scene is appearing.
-3) Is the basic project working!! Great... 
+* Is the basic project working!! Great... 
 Now, simply copy and replace the Classes and Resources folder with those which are present in the project that you set up.
-4) Look, in project explorer of Eclipse, Under your project find jni/Android.mk and open and all the classes that are now
+* Look, in project explorer of Eclipse, Under your project find jni/Android.mk and open and all the classes that are now
 present in the latest Classes folder.
-5) Also, change the device orientation from landscape to portrait in AndroidManifest.xml file which you can find in the
+* Also, change the device orientation from landscape to portrait in AndroidManifest.xml file which you can find in the
 project explorer only.
 
 Now, run the project as the Android application.
 
 
-* Already setup and run the project with above steps, Here is WHAT YOUR GAME LOOKS LIKE:
+## * Already setup and run the project with above steps, Here is WHAT YOUR GAME LOOKS LIKE:
 
 1) A Main Screen- showing 3 options-Play,Controls, Scores
 2) Play Button takes you to actual game where you use touch(tap, gesture, slide to control bullets and motion of ship)
