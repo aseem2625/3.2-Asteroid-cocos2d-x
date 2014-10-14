@@ -6,8 +6,9 @@ This is the updated version (to v3.2 cocos2d-x) of existing project https://gith
 which seems to be for v2.x
 
 I updated the project and checked it on android device. 
-The game is working and not crashing. However, there are a thing I need to check because I think the game logic needs to be
-refined. I'll do this in coming future. Wait till the time.... Once it is done from my side, I'll add a TAG 'Fully UPGRADED'
+The game is working and not crashing. However, there is a thing that I need to check because I think the game logic needs has a little flaw inherited from the code which I took from the link mentioned above. 
+
+I'll do this in coming future. You can use this code without any problem and Wait till the time that logic is also rectified.... Once it is done from my side, I'll add a TAG 'Fully UPGRADED'
 at the top of this README.md file.
 
 NOTE: Additional features for extending the game play won't be added by me.
