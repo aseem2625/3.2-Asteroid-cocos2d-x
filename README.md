@@ -1,12 +1,11 @@
-## 3.2-Asteroid-cocos2d-x
-======================
+# 3.2-Asteroid-cocos2d-x
 
 ## * What is this project?
 
 This is the updated version (to v3.2 cocos2d-x) of existing project https://github.com/clawoo/AsteroidsCocos2D-x 
 which seems to be for v2.x
 
-I updated the project from and checked it on android device. 
+I updated the project and checked it on android device. 
 The game is working and not crashing. However, there are a thing I need to check because I think the game logic needs to be
 refined. I'll do this in coming future. Wait till the time.... Once it is done from my side, I'll add a TAG 'Fully UPGRADED'
 at the top of this README.md file.
@@ -33,7 +32,8 @@ Note: Single Touch not implemented.
 Once, you're done with understanding of this code, then you can gain confidence with atleast writing basic game logic and
 can complete your own game single handedly.
 
-*Post Advice and suggestions:
+### * Post Advice and suggestions:
+
 * You still have to learn rest of the APIs and plugins of cocos2d-x which will make you able to publish professional games
 on the store.
 * Do read and understand code of game examples like this, so that you have clear picture of what is happening, and
