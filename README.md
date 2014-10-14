@@ -14,29 +14,29 @@ at the top of this README.md file.
 NOTE: Additional features for extending the game play won't be added by me.
 If you want, you can obviously do it yourself.
 
-* Who can use this repository?
+## * Who can use this repository?
 This game is very basic implementation for the beginners. Anyone can use it, however, it may not be much beneficial 
 for the people who understands and can write atleast a basic game using simple APIs of cocos2d-x (v3.x)
 
 
 ## *Features(API of cocos2d-x v3.2 used) of this project:
 
-1) Sprites
-2) Single and Multiple layers on one scene
-3) Menu
-4) Multiple Touches (Tap, gesture, slide). 
+* Sprites
+* Single and Multiple layers on one scene
+* Menu
+* Multiple Touches (Tap, gesture, slide).
 Note: Single Touch not implemented.
-5) Basic collision detection without physics framework (Using interesection-Rect class of cocos2d-x v3.2)
-6) Data Structure- Vectors, which is newly implemented and extended from the native Vector class avaialble in C++
-7) Default Transition to the next scene.
+* Basic collision detection without physics framework (Using interesection-Rect class of cocos2d-x v3.2).
+* Data Structure- Vectors, which is newly implemented and extended from the native Vector class available in C++
+* Default Transition to the next scene.
 
 Once, you're done with understanding of this code, then you can gain confidence with atleast writing basic game logic and
 can complete your own game single handedly.
 
-Post Advice and suggestions:
-1) You still have to learn rest of the APIs and plugins of cocos2d-x which will make you able to publish professional games
+*Post Advice and suggestions:
+* You still have to learn rest of the APIs and plugins of cocos2d-x which will make you able to publish professional games
 on the store.
-2) Do read and understand code of game examples like this, so that you have clear picture of what is happening, and
+* Do read and understand code of game examples like this, so that you have clear picture of what is happening, and
 it will help you gain confidence. It will also help you get familiar with the strategy and way which which other people write 
 their own games.
 
@@ -59,11 +59,11 @@ Now, run the project as the Android application.
 
 ## * Already setup and run the project with above steps, Here is WHAT YOUR GAME LOOKS LIKE:
 
-1) A Main Screen- showing 3 options-Play,Controls, Scores
-2) Play Button takes you to actual game where you use touch(tap, gesture, slide to control bullets and motion of ship)
-3) Game Over Screen after asteroid collide/touch the ship
-4) Controls shows you the control options
-5) Scores is dummy scene showing scores.
+* A Main Screen- showing 3 options-Play,Controls, Scores
+* Play Button takes you to actual game where you use touch(tap, gesture, slide to control bullets and motion of ship)
+* Game Over Screen after asteroid collide/touch the ship
+* Controls shows you the control options
+* Scores is dummy scene showing scores.
 
 Any suggestions and doubts are always welcome..
 
