@@ -3,10 +3,10 @@
 ## * What is this project?
 
 This is the updated version (to v3.2 cocos2d-x) of existing project https://github.com/clawoo/AsteroidsCocos2D-x 
-which seems to be for v2.x
+which seems to be intial verion of v2.x
 
 I updated the project and checked it on android device. 
-The game is working and not crashing. However, there is a thing that I need to check because I think the game logic needs has a little flaw inherited from the code which I took from the link mentioned above. 
+The game is working and not crashing. However, there are few flaws in the original game logic, which needs to be improved.
 
 I'll do this in coming future. You can use this code without any problem and Wait till the time that logic is also rectified.... Once it is done from my side, I'll add a TAG 'Fully UPGRADED'
 at the top of this README.md file.
